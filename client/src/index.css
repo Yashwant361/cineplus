@@ -1,0 +1,13 @@
+@import "tailwindcss";
+body.dark-theme {
+  background-color: #0f172a;
+  color: white;
+}
+
+.dark-theme nav {
+  background-color: #020617;
+}
+
+.dark-theme .card {
+  background-color: #1e293b;
+}
