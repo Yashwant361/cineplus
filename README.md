@@ -1,4 +1,4 @@
-CinePulse 🎬
+ CinePulse 🎬 [https://drive.google.com/file/d/1zIUFBkvJdIKkp_DIm0ALESjjkaWzt6yW/view?usp=sharing](url)
 
 CinePulse is a full-stack movie discussion platform where users can explore movies and share their opinions about them. The application fetches movie data from the TMDB API and allows users to post comments, rate movies, and interact with other users’ opinions using like and dislike reactions.
 
